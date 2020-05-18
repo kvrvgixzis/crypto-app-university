@@ -120,4 +120,28 @@
   <metadata name="openFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>16, 11</value>
   </metadata>
+  <metadata name="saveFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>155, 11</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAA
+        AAD/////////////////////////////////////////////////////////////////////////////
+        //////////////+7pgD///////////////////////////////////////////////////////+7pgC7
+        pgBYTxL///////////////////////////////////////////////+7pgC7pgC7pgC7pgBYTxL/////
+        //////////////////////////////////+7pgC7pgC7pgC7pgC7pgD///9YTxL/////////////////
+        //////////////+7pgC7pgC7pgC7pgC7pgC7pgC7pgD///9YTxL///////////////////////+7pgC7
+        pgC7pgC7pgC7pgC7pgC7pgC7pgD///////9YTxL///////////////+7pgC7pgC7pgC7pgC7pgC7pgC7
+        pgC7pgC7pgC7pgD///////9YTxL///////+7pgC7pgC7pgC7pgC7pgC7pgC7pgC7pgC7pgC7pgC7pgD/
+        //////////9YTxL////b0Ie7pgC7pgC7pgC7pgC7pgC7pgC7pgC7pgC7pgD///////////9YTxL/////
+        ///////b0Ie7pgC7pgC7pgC7pgC7pgC7pgC7pgD///////////9YTxL////////////////b0Ifb0Ie7
+        pgC7pgC7pgC7pgC7pgBYTxJYTxJYTxJYTxL////////////////////////b0Ifb0Ifb0Ifb0Ifb0IfQ
+        wFe7pgC7pgC7pgD////////////////////////////b0Ifb0Ifb0Ifb0Ifb0Ie7pgC7pgC7pgD/////
+        ///////////////////////////////b0Ifb0Ifb0Ie7pgC7pgC7pgD/////////////////////////
+        ///////////////b0Ifb0If///////+7pgD//////////////////////////////////wAA/v8AAPx/
+        AAD4PwAA8B8AAOAPAADABwAAgAMAAAABAAAAAwAAgAcAAIAPAADAHwAAwD8AAOB/AADm/wAAPCEtLQok
+        KCdib2R5JykuZXEoMCkuY3NzKCd3aWR0aCcpCi0tPgo=
+</value>
+  </data>
 </root>
